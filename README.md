@@ -4,7 +4,10 @@ switch for dark and light mode.
 
 
 
-![video_switch_bottom](https://github.com/user-attachments/assets/a9a17a5f-7f07-4694-8af7-ff549f8f2581)
+
+https://github.com/user-attachments/assets/8af75e72-6e91-4326-82b1-13cca1efabc4    
+
+
 
 ## Getting Started
 
