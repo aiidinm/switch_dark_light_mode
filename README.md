@@ -1,6 +1,6 @@
 # switch_dark_light_mode
 
-A new Flutter project.
+switch for dark and light mode.
 
 ## Getting Started
 
