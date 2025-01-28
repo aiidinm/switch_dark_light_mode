@@ -2,6 +2,10 @@
 
 switch for dark and light mode.
 
+
+https://github.com/user-attachments/assets/a9a17a5f-7f07-4694-8af7-ff549f8f2581
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
